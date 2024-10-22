@@ -17,3 +17,17 @@ python3 -m venv .venv
 cd FinancePy
 python -m venv .venv
 ```
+
+## Activation
+
+### macOS/Linux
+
+```{shell}
+. .venv/bin/activate
+```
+
+### Windows
+
+```{shell}
+.venv\Scripts\activate
+```
